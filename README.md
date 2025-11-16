@@ -11,7 +11,7 @@ StudyNotes is a Single Page Application (SPA) that helps students manage notes b
 - keywords
 - date
 - attachments  
-and more.
+- and more.
 
 
 ## Minimal Functionalities
