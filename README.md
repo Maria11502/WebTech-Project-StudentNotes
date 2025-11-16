@@ -13,7 +13,7 @@ StudyNotes is a Single Page Application (SPA) that helps students manage notes b
 - attachments  
 and more.
 
----
+
 ## Minimal Functionalities
 
 - **Authentication:**  
@@ -34,7 +34,7 @@ and more.
 - **External Content:**  
   Add YouTube videos, online conference links, Kindle highlights.
 
----
+
 
 ##  Technology Stack
 
@@ -48,13 +48,13 @@ and more.
 - Relational DB (PostgreSQL / MySQL)
 - ORM (Prisma / Sequelize)
 
----
+
 
 ##  Reference Applications
 - [StuDocu](https://www.studocu.com/)
 - [Evernote](https://evernote.com/)
 
----
+
 
 ##  Deliverables
 
@@ -62,4 +62,4 @@ and more.
 2. **06.12.2025** — Functional REST API  
 3. **Last seminar** — Full app + demo  
 
----
+
