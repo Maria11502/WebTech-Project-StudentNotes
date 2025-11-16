@@ -14,7 +14,7 @@ StudyNotes is a Single Page Application (SPA) that helps students manage notes b
 and more.
 
 ---
-## 🧩 Minimal Functionalities (User Stories)
+## Minimal Functionalities
 
 - **Authentication:**  
   Login using institutional email (`@stud.ase.ro`).
