@@ -1,2 +1,3 @@
-StudentNotes is a web application designed to help students efficiently take, organize, and manage notes during university courses, seminars, and individual study sessions.
-The platform is built as a Single Page Application (SPA) and aims to provide an intuitive, fast and flexible note-taking experience.
+<header>**StudentNotes - Project**</header>
+
+**StudentNotes** is a web application designed to help students efficiently take, organize, and manage notes during university courses, seminars, and individual study sessions.
